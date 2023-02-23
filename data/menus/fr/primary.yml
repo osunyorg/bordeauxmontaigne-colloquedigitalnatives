@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Édition 2022
+  target: "/edition-2022/"
+  kind: page
+  children: []
 
