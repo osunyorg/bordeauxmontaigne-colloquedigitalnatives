@@ -21,4 +21,8 @@ items:
     target: "/edition-2023/handicap-et-inclusivite/"
     kind: page
     children: []
+  - title: Handicap et Public
+    target: "/edition-2023/handicap-et-public/"
+    kind: page
+    children: []
 
