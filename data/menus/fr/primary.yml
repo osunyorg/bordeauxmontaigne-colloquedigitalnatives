@@ -46,7 +46,7 @@ items:
     kind: page
     children: []
 - title: Nous rejoindre
-  target: "/contact/"
+  target: "/about/"
   kind: page
   children: []
 
