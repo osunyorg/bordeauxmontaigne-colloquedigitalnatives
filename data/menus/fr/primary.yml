@@ -45,8 +45,4 @@ items:
     target: "/edition-2023/handicap-et-dispositifs-innovants/"
     kind: page
     children: []
-- title: Nous rejoindre
-  target: "/contact/"
-  kind: page
-  children: []
 
