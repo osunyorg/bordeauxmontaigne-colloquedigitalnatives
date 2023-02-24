@@ -13,6 +13,10 @@ items:
     target: "/edition-2022/confiance-et-donnees/"
     kind: page
     children: []
+  - title: Confiance et espace
+    target: "/edition-2022/confiance-et-espace/"
+    kind: page
+    children: []
 - title: Edition 2023
   target: "/edition-2023/"
   kind: page
