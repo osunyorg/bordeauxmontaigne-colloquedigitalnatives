@@ -2,3 +2,8 @@ theme: osuny-hugo-theme-aaa
 paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
+params:
+  logo:
+    header: "/assets/images/logo.webp"
+    footer: "/assets/images/logo.webp"
+
