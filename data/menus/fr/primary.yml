@@ -29,4 +29,8 @@ items:
     target: "/edition-2023/handicap-et-dispositifs-innovants/"
     kind: page
     children: []
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
 
