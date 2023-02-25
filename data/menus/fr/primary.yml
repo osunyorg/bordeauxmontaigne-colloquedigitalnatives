@@ -5,7 +5,7 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Edition 2023
+- title: Programme
   target: "/edition-2023/"
   kind: page
   children:
