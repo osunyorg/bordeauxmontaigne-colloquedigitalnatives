@@ -5,6 +5,26 @@ items:
   target: "/"
   kind: page
   children: []
+- title: Programme
+  target: "/edition-2023/"
+  kind: page
+  children:
+  - title: Handicap et Accessibilité
+    target: "/edition-2023/handicap-et-accessibilite/"
+    kind: page
+    children: []
+  - title: Handicap et Inclusivité
+    target: "/edition-2023/handicap-et-inclusivite/"
+    kind: page
+    children: []
+  - title: Handicap et Public
+    target: "/edition-2023/handicap-et-public/"
+    kind: page
+    children: []
+  - title: Handicap et Dispositifs Innovant
+    target: "/edition-2023/handicap-et-dispositifs-innovants/"
+    kind: page
+    children: []
 - title: Édition 2022
   target: "/edition-2022/"
   kind: page
@@ -25,28 +45,4 @@ items:
     target: "/edition-2022/confiance-et-innovation/"
     kind: page
     children: []
-- title: Edition 2023
-  target: "/edition-2023/"
-  kind: page
-  children:
-  - title: Handicap et Accessibilité
-    target: "/edition-2023/handicap-et-accessibilite/"
-    kind: page
-    children: []
-  - title: Handicap et Inclusivité
-    target: "/edition-2023/handicap-et-inclusivite/"
-    kind: page
-    children: []
-  - title: Handicap et Public
-    target: "/edition-2023/handicap-et-public/"
-    kind: page
-    children: []
-  - title: Handicap et Dispositifs Innovant
-    target: "/edition-2023/handicap-et-dispositifs-innovants/"
-    kind: page
-    children: []
-- title: Nous rejoindre
-  target: "/contact/"
-  kind: page
-  children: []
 

@@ -10,8 +10,8 @@ items:
   kind: page
   children: []
 - title: Accessibilité
-  target: "/accessibilite/"
-  kind: page
+  target: https://www.iut.u-bordeaux-montaigne.fr/accessibilite/
+  kind: url
   children: []
 - title: Plan du site
   target: "/plan-du-site/"

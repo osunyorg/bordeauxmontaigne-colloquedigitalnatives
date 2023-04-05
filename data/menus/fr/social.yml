@@ -1,4 +1,8 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: MMI Bordeaux
+  target: https://www.mmibordeaux.com
+  kind: url
+  children: []
 
