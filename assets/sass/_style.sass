@@ -18,6 +18,14 @@
     .chapter
         flex-direction: column-reverse
 
+body:not(.full-width) 
+    .block-chapter 
+        @include media-breakpoint-up(xs)
+        figure.image-portrait
+            margin: auto
+            margin-top: 2rem
+            max-width: 100%
+
 .page__home 
     main 
         .blocks 
