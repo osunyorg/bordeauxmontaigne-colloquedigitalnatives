@@ -28,5 +28,9 @@ items:
 - title: Édition 2022
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Confiance et données
+    target: "/edition-2022/confiance-et-donnees/"
+    kind: page
+    children: []
 
