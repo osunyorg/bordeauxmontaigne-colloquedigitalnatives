@@ -41,4 +41,8 @@ items:
     target: "/edition-2022/confiance-et-public/"
     kind: page
     children: []
+  - title: Confiance et innovation
+    target: "/edition-2022/confiance-et-innovation/"
+    kind: page
+    children: []
 
