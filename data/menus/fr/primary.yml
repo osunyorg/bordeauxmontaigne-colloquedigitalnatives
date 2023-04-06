@@ -25,24 +25,4 @@ items:
     target: "/edition-2023/handicap-et-dispositifs-innovants/"
     kind: page
     children: []
-- title: Édition 2022
-  target: "/edition-2022/"
-  kind: page
-  children:
-  - title: Confiance et données
-    target: "/edition-2022/confiance-et-donnees/"
-    kind: page
-    children: []
-  - title: Confiance et espace
-    target: "/edition-2022/confiance-et-espace/"
-    kind: page
-    children: []
-  - title: Confiance et public
-    target: "/edition-2022/confiance-et-public/"
-    kind: page
-    children: []
-  - title: Confiance et innovation
-    target: "/edition-2022/confiance-et-innovation/"
-    kind: page
-    children: []
 
