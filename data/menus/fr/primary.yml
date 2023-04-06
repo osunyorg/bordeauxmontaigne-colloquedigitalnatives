@@ -29,7 +29,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Confiance et données
+  - title: Confiance et Données
     target: "/edition-2022/confiance-et-donnees/"
     kind: page
     children: []
