@@ -37,4 +37,8 @@ items:
     target: "/edition-2022/confiance-et-espace/"
     kind: page
     children: []
+  - title: Confiance et public
+    target: "/edition-2022/confiance-et-public/"
+    kind: page
+    children: []
 
