@@ -5,12 +5,12 @@ breadcrumb_title: "Presse"
 url: "/presse/"
 slug: "presse"
 
-full_width: false
+full_width: true
 design:
-  full_width: false
+  full_width: true
   toc:
-    present: true
-    offcanvas: false
+    present: false
+    offcanvas: true
 
 position: 10
 translation_key: communication-website-page-c3595513-1ea6-48f1-a4e3-30fac1860033
@@ -32,26 +32,20 @@ header_text: >-
 legacy_text: >
   
 blocks:
-  - template: files
+  - template: pages
     title: >-
-      Communiqué de presse
+      
     position: 1
     data:
-      description: >-
-        
-
-
-      files:
-  - template: files
-    title: >-
-      Dossier de presse
-    position: 2
-    data:
-      description: >-
-        
-
-
-      files:
+      show_main_description: false
+      show_descriptions: false
+      show_images: false
+      layout: grid
+      pages:
+        - page: /presse-2022/
+          slug: /presse-2022/
+        - page: /presse-2023/
+          slug: /presse-2023/
 
 
 ---

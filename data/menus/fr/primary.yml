@@ -17,12 +17,32 @@ items:
     target: "/edition-2023/handicap-et-inclusivite/"
     kind: page
     children: []
-  - title: Handicap et Public
-    target: "/edition-2023/handicap-et-public/"
+  - title: Handicap et Publics
+    target: "/edition-2023/handicap-et-publics/"
     kind: page
     children: []
-  - title: Handicap et Dispositifs Innovant
+  - title: Handicap et Dispositifs Innovants
     target: "/edition-2023/handicap-et-dispositifs-innovants/"
+    kind: page
+    children: []
+- title: Édition 2022
+  target: ''
+  kind: blank
+  children:
+  - title: Confiance et Données
+    target: "/edition-2022/confiance-et-donnees/"
+    kind: page
+    children: []
+  - title: Confiance et Espace
+    target: "/edition-2022/confiance-et-espace/"
+    kind: page
+    children: []
+  - title: Confiance et Publics
+    target: "/edition-2022/confiance-et-public/"
+    kind: page
+    children: []
+  - title: Confiance et Innovation
+    target: "/edition-2022/confiance-et-innovation/"
     kind: page
     children: []
 

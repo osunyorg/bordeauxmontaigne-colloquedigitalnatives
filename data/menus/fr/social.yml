@@ -5,7 +5,7 @@ items:
   target: https://www.mmibordeaux.com
   kind: url
   children: []
-- title: Médias presse
+- title: Presse
   target: "/presse/"
   kind: page
   children: []
