@@ -13,7 +13,7 @@ params:
     blocks:
       call_to_action:
         mobile:   164
-        tablet:   500
+        tablet:   350
         desktop:  415
       chapter:
         mobile:   350
