@@ -3,5 +3,6 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  plausible: digitalnatives.mmibordeaux.com
   breadcrumb: 
     position: hero-end
