@@ -17,6 +17,10 @@ items:
       target: "/edition-2023/handicap-et-accessibilite/"
       kind: page
       children: []
+    - title: Handicap et Publics
+      target: "/edition-2023/handicap-et-publics/"
+      kind: page
+      children: []
     - title: Handicap et Inclusivité
       target: "/edition-2023/handicap-et-inclusivite/"
       kind: page
@@ -25,10 +29,6 @@ items:
     target: "/edition-2022/"
     kind: page
     children: []
-- title: Handicap et Publics
-  target: "/edition-2023/handicap-et-publics/"
-  kind: page
-  children: []
 - title: Handicap et Dispositifs Innovants
   target: "/edition-2023/handicap-et-dispositifs-innovants/"
   kind: page
