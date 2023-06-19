@@ -25,4 +25,8 @@ items:
     target: "/edition-2022/"
     kind: page
     children: []
+- title: Handicap et Publics
+  target: "/edition-2023/handicap-et-publics/"
+  kind: page
+  children: []
 
