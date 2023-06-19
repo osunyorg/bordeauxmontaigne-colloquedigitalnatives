@@ -17,4 +17,8 @@ items:
     target: "/edition-2022/"
     kind: page
     children: []
+- title: Handicap et Accessibilité
+  target: "/edition-2023/handicap-et-accessibilite/"
+  kind: page
+  children: []
 
