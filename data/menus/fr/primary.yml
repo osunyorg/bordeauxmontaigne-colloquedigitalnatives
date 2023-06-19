@@ -49,4 +49,8 @@ items:
   target: "/edition-2023/"
   kind: page
   children: []
+- title: Édition 2022
+  target: "/edition-2022/"
+  kind: page
+  children: []
 
