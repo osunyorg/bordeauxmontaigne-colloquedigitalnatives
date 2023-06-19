@@ -29,4 +29,8 @@ items:
   target: "/edition-2023/handicap-et-publics/"
   kind: page
   children: []
+- title: Handicap et Dispositifs Innovants
+  target: "/edition-2023/handicap-et-dispositifs-innovants/"
+  kind: page
+  children: []
 
