@@ -33,6 +33,10 @@ items:
     target: "/edition-2022/"
     kind: page
     children:
+    - title: Confiance et Données
+      target: "/edition-2022/confiance-et-donnees/"
+      kind: page
+      children: []
     - title: Confiance et Espace
       target: "/edition-2022/confiance-et-espace/"
       kind: page
@@ -45,8 +49,4 @@ items:
       target: "/edition-2022/confiance-et-innovation/"
       kind: page
       children: []
-- title: Confiance et Données
-  target: "/edition-2022/confiance-et-donnees/"
-  kind: page
-  children: []
 
