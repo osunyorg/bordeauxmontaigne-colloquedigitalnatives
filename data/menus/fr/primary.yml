@@ -5,26 +5,6 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Édition 2022
-  target: ''
-  kind: blank
-  children:
-  - title: Confiance et Données
-    target: "/edition-2022/confiance-et-donnees/"
-    kind: page
-    children: []
-  - title: Confiance et Espace
-    target: "/edition-2022/confiance-et-espace/"
-    kind: page
-    children: []
-  - title: Confiance et Publics
-    target: "/edition-2022/confiance-et-public/"
-    kind: page
-    children: []
-  - title: Confiance et Innovation
-    target: "/edition-2022/confiance-et-innovation/"
-    kind: page
-    children: []
 - title: Édition 2023
   target: "/edition-2023/"
   kind: page
