@@ -13,14 +13,14 @@ items:
     target: "/edition-2023/"
     kind: page
     children:
+    - title: Handicap et Inclusivité
+      target: "/edition-2023/handicap-et-inclusivite/"
+      kind: page
+      children: []
     - title: Handicap et Accessibilité
       target: "/edition-2023/handicap-et-accessibilite/"
       kind: page
       children: []
-  - title: Handicap et Inclusivité
-    target: "/edition-2023/handicap-et-inclusivite/"
-    kind: page
-    children: []
   - title: Édition 2022
     target: "/edition-2022/"
     kind: page
