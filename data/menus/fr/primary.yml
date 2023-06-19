@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Édition 2023
-  target: "/edition-2023"
+  target: https://digitalnatives.mmibordeaux.com/edition-2023/
   kind: url
   children:
   - title: Handicap et Accessibilité
