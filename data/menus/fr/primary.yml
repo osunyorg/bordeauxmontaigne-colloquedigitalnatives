@@ -6,8 +6,8 @@ items:
   kind: page
   children: []
 - title: Édition 2023
-  target: "/edition-2023/"
-  kind: page
+  target: "/edition-2023"
+  kind: url
   children:
   - title: Handicap et Accessibilité
     target: "/edition-2023/handicap-et-accessibilite/"
