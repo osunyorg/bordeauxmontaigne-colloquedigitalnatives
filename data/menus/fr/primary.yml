@@ -5,26 +5,6 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Édition 2023
-  target: https://digitalnatives.mmibordeaux.com/edition-2023/
-  kind: url
-  children:
-  - title: Handicap et Accessibilité
-    target: "/edition-2023/handicap-et-accessibilite/"
-    kind: page
-    children: []
-  - title: Handicap et Inclusivité
-    target: "/edition-2023/handicap-et-inclusivite/"
-    kind: page
-    children: []
-  - title: Handicap et Publics
-    target: "/edition-2023/handicap-et-publics/"
-    kind: page
-    children: []
-  - title: Handicap et Dispositifs Innovants
-    target: "/edition-2023/handicap-et-dispositifs-innovants/"
-    kind: page
-    children: []
 - title: Édition 2022
   target: ''
   kind: blank
