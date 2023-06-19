@@ -33,4 +33,8 @@ items:
     target: "/edition-2022/"
     kind: page
     children: []
+- title: Confiance et Données
+  target: "/edition-2022/confiance-et-donnees/"
+  kind: page
+  children: []
 
