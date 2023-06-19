@@ -10,8 +10,8 @@ items:
   kind: blank
   children:
   - title: Édition 2023
-    target: "/edition-2023/"
-    kind: page
+    target: ''
+    kind: blank
     children:
     - title: Handicap et Accessibilité
       target: "/edition-2023/handicap-et-accessibilite/"
