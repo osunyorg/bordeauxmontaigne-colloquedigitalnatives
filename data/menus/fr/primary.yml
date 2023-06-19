@@ -5,10 +5,6 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Édition 2023
-  target: "/edition-2023/"
-  kind: page
-  children: []
 - title: Éditions
   target: ''
   kind: blank
@@ -17,4 +13,8 @@ items:
     target: "/edition-2022/"
     kind: page
     children: []
+- title: Édition 2023
+  target: "/edition-2023/"
+  kind: page
+  children: []
 
