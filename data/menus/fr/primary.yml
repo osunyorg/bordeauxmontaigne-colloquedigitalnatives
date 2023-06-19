@@ -32,7 +32,11 @@ items:
   - title: Édition 2022
     target: "/edition-2022/"
     kind: page
-    children: []
+    children:
+    - title: Confiance et Innovation
+      target: "/edition-2022/confiance-et-innovation/"
+      kind: page
+      children: []
 - title: Confiance et Données
   target: "/edition-2022/confiance-et-donnees/"
   kind: page
@@ -43,10 +47,6 @@ items:
   children: []
 - title: Confiance et Publics
   target: "/edition-2022/confiance-et-public/"
-  kind: page
-  children: []
-- title: Confiance et Innovation
-  target: "/edition-2022/confiance-et-innovation/"
   kind: page
   children: []
 
