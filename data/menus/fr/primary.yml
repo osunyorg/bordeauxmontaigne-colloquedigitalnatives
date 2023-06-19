@@ -13,8 +13,4 @@ items:
   target: "/edition-2022/"
   kind: page
   children: []
-- title: Éditions
-  target: ''
-  kind: blank
-  children: []
 
