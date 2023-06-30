@@ -6,3 +6,6 @@ params:
   plausible: digitalnatives.mmibordeaux.com
   breadcrumb: 
     position: hero-end
+  logo:
+    header: "/assets/images/logo-blanc.svg"
+    footer: "/assets/images/logo.svg"
