@@ -7,3 +7,12 @@ fr:
   languageName: Français
   permalinks:
     persons: /equipe/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers
