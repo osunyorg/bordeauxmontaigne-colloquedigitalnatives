@@ -9,3 +9,5 @@ params:
   logo:
     header: "/assets/images/logo-blanc.svg"
     footer: "/assets/images/logo.svg"
+  debug:
+     productionUrl: "https://digitalnatives.mmibordeaux.com"
