@@ -65,4 +65,8 @@ items:
       target: "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
       kind: page
       children: []
+    - title: Le numérique autrement et les salariés
+      target: "/edition-2024/le-numerique-autrement-et-les-salaries/"
+      kind: page
+      children: []
 
