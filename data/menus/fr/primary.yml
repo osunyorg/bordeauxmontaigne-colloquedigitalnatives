@@ -52,5 +52,9 @@ items:
   - title: Éditions 2024
     target: "/edition-2024/"
     kind: page
-    children: []
+    children:
+    - title: Le numérique autrement et les enfants
+      target: "/edition-2024/le-numerique-autrement-et-les-enfants/"
+      kind: page
+      children: []
 
