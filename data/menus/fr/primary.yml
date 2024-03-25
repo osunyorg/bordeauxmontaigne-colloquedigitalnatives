@@ -49,4 +49,8 @@ items:
       target: "/edition-2022/confiance-et-innovation/"
       kind: page
       children: []
+  - title: Éditions 2024
+    target: "/edition-2024/"
+    kind: page
+    children: []
 
