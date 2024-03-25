@@ -61,4 +61,8 @@ items:
       target: "/edition-2024/le-numerique-autrement-et-les-adolescents/"
       kind: page
       children: []
+    - title: Le numérique autrement et les jeunes adultes
+      target: "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
+      kind: page
+      children: []
 
