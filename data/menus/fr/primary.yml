@@ -9,6 +9,26 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Éditions 2024
+    target: "/edition-2024/"
+    kind: page
+    children:
+    - title: Le numérique autrement et les enfants
+      target: "/edition-2024/le-numerique-autrement-et-les-enfants/"
+      kind: page
+      children: []
+    - title: Le numérique autrement et les adolescents
+      target: "/edition-2024/le-numerique-autrement-et-les-adolescents/"
+      kind: page
+      children: []
+    - title: Le numérique autrement et les jeunes adultes
+      target: "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
+      kind: page
+      children: []
+    - title: Le numérique autrement et les salariés
+      target: "/edition-2024/le-numerique-autrement-et-les-salaries/"
+      kind: page
+      children: []
   - title: Édition 2023
     target: "/edition-2023/"
     kind: page
@@ -47,26 +67,6 @@ items:
       children: []
     - title: Confiance et Innovation
       target: "/edition-2022/confiance-et-innovation/"
-      kind: page
-      children: []
-  - title: Éditions 2024
-    target: "/edition-2024/"
-    kind: page
-    children:
-    - title: Le numérique autrement et les enfants
-      target: "/edition-2024/le-numerique-autrement-et-les-enfants/"
-      kind: page
-      children: []
-    - title: Le numérique autrement et les adolescents
-      target: "/edition-2024/le-numerique-autrement-et-les-adolescents/"
-      kind: page
-      children: []
-    - title: Le numérique autrement et les jeunes adultes
-      target: "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
-      kind: page
-      children: []
-    - title: Le numérique autrement et les salariés
-      target: "/edition-2024/le-numerique-autrement-et-les-salaries/"
       kind: page
       children: []
 
