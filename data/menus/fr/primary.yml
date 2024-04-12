@@ -9,7 +9,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Éditions 2024
+  - title: Édition 2024
     target: "/edition-2024/"
     kind: page
     children:
