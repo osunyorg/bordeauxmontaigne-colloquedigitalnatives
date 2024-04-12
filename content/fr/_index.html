@@ -52,6 +52,33 @@ contents_reading_time:
     moins d'une minute
 contents:
   - kind: block
+    template: pages
+    title: >-
+      Éditions précédentes
+    ranks:
+      self: 2
+      children: 3
+    data:
+      show_main_description: false
+      show_descriptions: false
+      show_images: false
+      layout: grid
+      pages:
+        - path: "/edition-2024/"
+          slug: "edition-2024"
+          file: "pages/edition-2024/_index.html"
+          external: false
+        - path: "/edition-2023/"
+          slug: "edition-2023"
+          file: "pages/edition-2023/_index.html"
+          external: false
+        - path: "/edition-2022/"
+          slug: "edition-2022"
+          file: "pages/edition-2022/_index.html"
+          external: false
+
+
+  - kind: block
     template: organizations
     title: >-
       Partenaires
@@ -88,33 +115,6 @@ contents:
 
           external: true
           logo: "edc2e05a-749e-45e1-b8e7-b3ab605d0656"
-
-
-  - kind: block
-    template: pages
-    title: >-
-      Éditions précédentes
-    ranks:
-      self: 2
-      children: 3
-    data:
-      show_main_description: false
-      show_descriptions: false
-      show_images: false
-      layout: grid
-      pages:
-        - path: "/edition-2024/"
-          slug: "edition-2024"
-          file: "pages/edition-2024/_index.html"
-          external: false
-        - path: "/edition-2023/"
-          slug: "edition-2023"
-          file: "pages/edition-2023/_index.html"
-          external: false
-        - path: "/edition-2022/"
-          slug: "edition-2022"
-          file: "pages/edition-2022/_index.html"
-          external: false
 
 
 
