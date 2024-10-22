@@ -55,15 +55,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Intervenants
-    slug: "intervenants"
-    position: 1
-    rank: 2
+    slug: >-
+      intervenants
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -88,16 +96,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Rediffusion
-    slug: "rediffusion"
-    position: 2
-    rank: 2
+    slug: >-
+      rediffusion
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -129,7 +144,6 @@ contents:
           https://player.vimeo.com/video/715280780?autoplay=1&amp;quality=360p
         iframe: >-
           <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/715280780" title="Video"></iframe>
-
 
 
 

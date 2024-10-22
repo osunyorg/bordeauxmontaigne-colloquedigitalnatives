@@ -57,19 +57,27 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Nos tables-rondes
-    slug: "nos-tables-rondes"
-    position: 1
-    rank: 2
+    slug: >-
+      nos-tables-rondes
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: pages
     title: >-
-      Édition 2022
+      
+    slug: >-
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       page:
         path: "/edition-2022/"
@@ -98,7 +106,6 @@ contents:
           slug: "confiance-et-innovation"
           file: "pages/edition-2022/confiance-et-innovation/_index.html"
           external: false
-
 
 
 
