@@ -9,4 +9,5 @@ items:
   target: "/presse/"
   kind: page
   children: []
+  file: content/fr/pages/presse/_index.html
 

@@ -5,6 +5,7 @@ items:
   target: "/"
   kind: page
   children: []
+  file: content/fr/_index.html
 - title: Éditions
   target: ''
   kind: blank
@@ -17,18 +18,23 @@ items:
       target: "/edition-2024/le-numerique-autrement-et-les-enfants/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-enfants/_index.html
     - title: Le numérique autrement et les adolescents
       target: "/edition-2024/le-numerique-autrement-et-les-adolescents/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-adolescents/_index.html
     - title: Le numérique autrement et les jeunes adultes
       target: "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/_index.html
     - title: Le numérique autrement et les salariés
       target: "/edition-2024/le-numerique-autrement-et-les-salaries/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-salaries/_index.html
+    file: content/fr/pages/edition-2024/_index.html
   - title: Édition 2023
     target: "/edition-2023/"
     kind: page
@@ -37,18 +43,23 @@ items:
       target: "/edition-2023/handicap-et-accessibilite/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2023/handicap-et-accessibilite/_index.html
     - title: Handicap et Inclusivité
       target: "/edition-2023/handicap-et-inclusivite/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2023/handicap-et-inclusivite/_index.html
     - title: Handicap et Publics
       target: "/edition-2023/handicap-et-publics/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2023/handicap-et-publics/_index.html
     - title: Handicap et Dispositifs Innovants
       target: "/edition-2023/handicap-et-dispositifs-innovants/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2023/handicap-et-dispositifs-innovants/_index.html
+    file: content/fr/pages/edition-2023/_index.html
   - title: Édition 2022
     target: "/edition-2022/"
     kind: page
@@ -57,16 +68,21 @@ items:
       target: "/edition-2022/confiance-et-donnees/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2022/confiance-et-donnees/_index.html
     - title: Confiance et Espace
       target: "/edition-2022/confiance-et-espace/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2022/confiance-et-espace/_index.html
     - title: Confiance et Publics
       target: "/edition-2022/confiance-et-public/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2022/confiance-et-public/_index.html
     - title: Confiance et Innovation
       target: "/edition-2022/confiance-et-innovation/"
       kind: page
       children: []
+      file: content/fr/pages/edition-2022/confiance-et-innovation/_index.html
+    file: content/fr/pages/edition-2022/_index.html
 
