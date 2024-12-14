@@ -9,5 +9,6 @@ items:
   target: "/presse/"
   kind: page
   children: []
+  path: "/pages/presse"
   file: content/fr/pages/presse/_index.html
 
