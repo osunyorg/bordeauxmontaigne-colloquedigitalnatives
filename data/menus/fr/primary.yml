@@ -4,38 +4,45 @@ items:
 - title: Accueil
   target: "/"
   kind: page
+  new_tab: false
   children: []
   path: "/"
   file: content/fr/_index.html
 - title: Éditions
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Édition 2024
     target: "/edition-2024/"
     kind: page
+    new_tab: false
     children:
     - title: Le numérique autrement et les enfants
       target: "/edition-2024/le-numerique-autrement-et-les-enfants/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-enfants"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-enfants/_index.html
     - title: Le numérique autrement et les adolescents
       target: "/edition-2024/le-numerique-autrement-et-les-adolescents/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-adolescents"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-adolescents/_index.html
     - title: Le numérique autrement et les jeunes adultes
       target: "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-jeunes-adultes"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/_index.html
     - title: Le numérique autrement et les salariés
       target: "/edition-2024/le-numerique-autrement-et-les-salaries/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-salaries"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-salaries/_index.html
@@ -44,28 +51,33 @@ items:
   - title: Édition 2023
     target: "/edition-2023/"
     kind: page
+    new_tab: false
     children:
     - title: Handicap et Accessibilité
       target: "/edition-2023/handicap-et-accessibilite/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2023/handicap-et-accessibilite"
       file: content/fr/pages/edition-2023/handicap-et-accessibilite/_index.html
     - title: Handicap et Inclusivité
       target: "/edition-2023/handicap-et-inclusivite/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2023/handicap-et-inclusivite"
       file: content/fr/pages/edition-2023/handicap-et-inclusivite/_index.html
     - title: Handicap et Publics
       target: "/edition-2023/handicap-et-publics/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2023/handicap-et-publics"
       file: content/fr/pages/edition-2023/handicap-et-publics/_index.html
     - title: Handicap et Dispositifs Innovants
       target: "/edition-2023/handicap-et-dispositifs-innovants/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2023/handicap-et-dispositifs-innovants"
       file: content/fr/pages/edition-2023/handicap-et-dispositifs-innovants/_index.html
@@ -74,28 +86,33 @@ items:
   - title: Édition 2022
     target: "/edition-2022/"
     kind: page
+    new_tab: false
     children:
     - title: Confiance et Données
       target: "/edition-2022/confiance-et-donnees/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2022/confiance-et-donnees"
       file: content/fr/pages/edition-2022/confiance-et-donnees/_index.html
     - title: Confiance et Espace
       target: "/edition-2022/confiance-et-espace/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2022/confiance-et-espace"
       file: content/fr/pages/edition-2022/confiance-et-espace/_index.html
     - title: Confiance et Publics
       target: "/edition-2022/confiance-et-public/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2022/confiance-et-public"
       file: content/fr/pages/edition-2022/confiance-et-public/_index.html
     - title: Confiance et Innovation
       target: "/edition-2022/confiance-et-innovation/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/edition-2022/confiance-et-innovation"
       file: content/fr/pages/edition-2022/confiance-et-innovation/_index.html

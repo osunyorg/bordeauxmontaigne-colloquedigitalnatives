@@ -4,10 +4,12 @@ items:
 - title: MMI Bordeaux
   target: https://www.mmibordeaux.com
   kind: url
+  new_tab: true
   children: []
 - title: Presse
   target: "/presse/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/presse"
   file: content/fr/pages/presse/_index.html
