@@ -25,6 +25,13 @@ items:
       children: []
       path: "/pages/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique"
       file: content/fr/pages/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique/_index.html
+    - title: Propagande et influence à travers les réseaux sociaux
+      target: "/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux"
+      file: content/fr/pages/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux/_index.html
     path: "/pages/edition-2025"
     file: content/fr/pages/edition-2025/_index.html
   - title: Édition 2024
