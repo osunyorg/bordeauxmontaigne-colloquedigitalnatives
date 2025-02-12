@@ -17,3 +17,4 @@ allowed_domains:
   - "vumbnail.com"
   - "www.twitch.tv"
   - "player.twitch.tv"
+  - "drive.google.com"
