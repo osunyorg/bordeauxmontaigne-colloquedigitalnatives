@@ -2,155 +2,235 @@
 title: Menu principal
 items:
 - title: Accueil
+  slug: accueil
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/"
   file: content/fr/_index.html
 - title: Éditions
+  slug: editions
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Édition 2025
+    slug: edition-2025
     target: "/edition-2025/"
     kind: page
     new_tab: false
     children:
     - title: Manipulations visuelles et sonores à l’ère numérique
+      slug: manipulations-visuelles-et-sonores-a-l-ere-numerique
       target: "/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique"
       file: content/fr/pages/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique/_index.html
     - title: Propagande et influence à travers les réseaux sociaux
+      slug: propagande-et-influence-a-travers-les-reseaux-sociaux
       target: "/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux"
       file: content/fr/pages/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux/_index.html
     - title: Fact-checking et innovations pour la vérification de l’information
+      slug: fact-checking-et-innovations-pour-la-verification-de-l-information
       target: "/edition-2025/fact-checking-et-innovations-pour-la-verification-de-l-information/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2025/fact-checking-et-innovations-pour-la-verification-de-l-information"
       file: content/fr/pages/edition-2025/fact-checking-et-innovations-pour-la-verification-de-l-information/_index.html
     - title: Émotions, données et manipulation algorithmique
+      slug: emotions-donnees-et-manipulation-algorithmique
       target: "/edition-2025/emotions-donnees-et-manipulation-algorithmique/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2025/emotions-donnees-et-manipulation-algorithmique"
       file: content/fr/pages/edition-2025/emotions-donnees-et-manipulation-algorithmique/_index.html
+    descendants_targets:
+    - "/edition-2025/emotions-donnees-et-manipulation-algorithmique/"
+    - "/edition-2025/fact-checking-et-innovations-pour-la-verification-de-l-information/"
+    - "/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique/"
+    - "/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux/"
     path: "/pages/edition-2025"
     file: content/fr/pages/edition-2025/_index.html
   - title: Édition 2024
+    slug: edition-2024
     target: "/edition-2024/"
     kind: page
     new_tab: false
     children:
     - title: Le numérique autrement et les enfants
+      slug: le-numerique-autrement-et-les-enfants
       target: "/edition-2024/le-numerique-autrement-et-les-enfants/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-enfants"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-enfants/_index.html
     - title: Le numérique autrement et les adolescents
+      slug: le-numerique-autrement-et-les-adolescents
       target: "/edition-2024/le-numerique-autrement-et-les-adolescents/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-adolescents"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-adolescents/_index.html
     - title: Le numérique autrement et les jeunes adultes
+      slug: le-numerique-autrement-et-les-jeunes-adultes
       target: "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-jeunes-adultes"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/_index.html
     - title: Le numérique autrement et les salariés
+      slug: le-numerique-autrement-et-les-salaries
       target: "/edition-2024/le-numerique-autrement-et-les-salaries/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2024/le-numerique-autrement-et-les-salaries"
       file: content/fr/pages/edition-2024/le-numerique-autrement-et-les-salaries/_index.html
+    descendants_targets:
+    - "/edition-2024/le-numerique-autrement-et-les-adolescents/"
+    - "/edition-2024/le-numerique-autrement-et-les-enfants/"
+    - "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
+    - "/edition-2024/le-numerique-autrement-et-les-salaries/"
     path: "/pages/edition-2024"
     file: content/fr/pages/edition-2024/_index.html
   - title: Édition 2023
+    slug: edition-2023
     target: "/edition-2023/"
     kind: page
     new_tab: false
     children:
     - title: Handicap et Accessibilité
+      slug: handicap-et-accessibilite
       target: "/edition-2023/handicap-et-accessibilite/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2023/handicap-et-accessibilite"
       file: content/fr/pages/edition-2023/handicap-et-accessibilite/_index.html
     - title: Handicap et Inclusivité
+      slug: handicap-et-inclusivite
       target: "/edition-2023/handicap-et-inclusivite/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2023/handicap-et-inclusivite"
       file: content/fr/pages/edition-2023/handicap-et-inclusivite/_index.html
     - title: Handicap et Publics
+      slug: handicap-et-publics
       target: "/edition-2023/handicap-et-publics/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2023/handicap-et-publics"
       file: content/fr/pages/edition-2023/handicap-et-publics/_index.html
     - title: Handicap et Dispositifs Innovants
+      slug: handicap-et-dispositifs-innovants
       target: "/edition-2023/handicap-et-dispositifs-innovants/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2023/handicap-et-dispositifs-innovants"
       file: content/fr/pages/edition-2023/handicap-et-dispositifs-innovants/_index.html
+    descendants_targets:
+    - "/edition-2023/handicap-et-accessibilite/"
+    - "/edition-2023/handicap-et-dispositifs-innovants/"
+    - "/edition-2023/handicap-et-inclusivite/"
+    - "/edition-2023/handicap-et-publics/"
     path: "/pages/edition-2023"
     file: content/fr/pages/edition-2023/_index.html
   - title: Édition 2022
+    slug: edition-2022
     target: "/edition-2022/"
     kind: page
     new_tab: false
     children:
     - title: Confiance et Données
+      slug: confiance-et-donnees
       target: "/edition-2022/confiance-et-donnees/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2022/confiance-et-donnees"
       file: content/fr/pages/edition-2022/confiance-et-donnees/_index.html
     - title: Confiance et Espace
+      slug: confiance-et-espace
       target: "/edition-2022/confiance-et-espace/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2022/confiance-et-espace"
       file: content/fr/pages/edition-2022/confiance-et-espace/_index.html
     - title: Confiance et Publics
+      slug: confiance-et-publics
       target: "/edition-2022/confiance-et-public/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2022/confiance-et-public"
       file: content/fr/pages/edition-2022/confiance-et-public/_index.html
     - title: Confiance et Innovation
+      slug: confiance-et-innovation
       target: "/edition-2022/confiance-et-innovation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/edition-2022/confiance-et-innovation"
       file: content/fr/pages/edition-2022/confiance-et-innovation/_index.html
+    descendants_targets:
+    - "/edition-2022/confiance-et-donnees/"
+    - "/edition-2022/confiance-et-espace/"
+    - "/edition-2022/confiance-et-innovation/"
+    - "/edition-2022/confiance-et-public/"
     path: "/pages/edition-2022"
     file: content/fr/pages/edition-2022/_index.html
+  descendants_targets:
+  - "/edition-2022/"
+  - "/edition-2022/confiance-et-donnees/"
+  - "/edition-2022/confiance-et-espace/"
+  - "/edition-2022/confiance-et-innovation/"
+  - "/edition-2022/confiance-et-public/"
+  - "/edition-2023/"
+  - "/edition-2023/handicap-et-accessibilite/"
+  - "/edition-2023/handicap-et-dispositifs-innovants/"
+  - "/edition-2023/handicap-et-inclusivite/"
+  - "/edition-2023/handicap-et-publics/"
+  - "/edition-2024/"
+  - "/edition-2024/le-numerique-autrement-et-les-adolescents/"
+  - "/edition-2024/le-numerique-autrement-et-les-enfants/"
+  - "/edition-2024/le-numerique-autrement-et-les-jeunes-adultes/"
+  - "/edition-2024/le-numerique-autrement-et-les-salaries/"
+  - "/edition-2025/"
+  - "/edition-2025/emotions-donnees-et-manipulation-algorithmique/"
+  - "/edition-2025/fact-checking-et-innovations-pour-la-verification-de-l-information/"
+  - "/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique/"
+  - "/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux/"
 
