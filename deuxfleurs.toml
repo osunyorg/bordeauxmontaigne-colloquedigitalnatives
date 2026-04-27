@@ -13,3 +13,24 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/edition-2025/test-1-1-1/index.html"
+to = "/edition-2025/fact-checking-et-innovations-pour-la-verification-de-l-information/"
+
+[[redirects]]
+from = "/edition-2025/test-1-1/index.html"
+to = "/edition-2025/propagande-et-influence-a-travers-les-reseaux-sociaux/"
+
+[[redirects]]
+from = "/edition-2025/test-1-1-1-1/index.html"
+to = "/edition-2025/emotions-donnees-et-manipulation-algorithmique/"
+
+[[redirects]]
+from = "/edition-2025/test-1/index.html"
+to = "/edition-2025/manipulations-visuelles-et-sonores-a-l-ere-numerique/"
+
+[[redirects]]
+from = "/edition-2023/handicap-et-public/index.html"
+to = "/edition-2023/handicap-et-publics/"
+
